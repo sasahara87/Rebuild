@@ -1,7 +1,7 @@
 // ハンバーガーメニュー
 $(function(){
     $('.humburger-btn').on('click',function(){
-        $('.humberger-menu').toggleClass('show')
+        $('.humburger-menu').toggleClass('show')
     })
 })
 

@@ -265,6 +265,7 @@ footer ul li a {
   }
   .humburger-menu li {
     margin: 120px 0;
+    list-style: none;
   }
   .humburger-menu li a {
     font-size: 40px;
